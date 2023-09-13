@@ -1,0 +1,10 @@
+{
+    "Resources": {
+        "demo1": {
+            "Type": "AWS::S3::Bucket"
+        },
+        "demo2": {
+            "Type": "AWS::S3::Bucket"
+        }
+    }
+}
